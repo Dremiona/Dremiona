@@ -2,7 +2,7 @@ Junior Backend Software Developer
 I've started to learn to code as a curiosity hobby and landed an Apprenticeship to progress in the field. Since then, I have finished the Apprenticeship and I am currently working as a Java backend developer in e-commerce.  
 * 🌍  I'm based in Manchester, United Kingdom 
 * ✉️  You can contact me [here](mailto:dev.queen.rising@gmail.com) 
-* 🧠  I'm learning Java 17 and Spring Boot
+* 🧠  I'm learning Java 21 and Spring Boot
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills  
