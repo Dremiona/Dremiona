@@ -3,6 +3,7 @@ I've started to learn to code out of curiosity and landed an Apprenticeship to g
 * 🌍  I'm based in Manchester, United Kingdom 
 * 🧠  I'm learning Java 21 and Spring Boot
 * 🧠  I'm learning Kafka
+* 🧠  I am learning Python
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills  
