@@ -2,7 +2,7 @@
 
 Java Software Developer   
 I've started to learn to code out of curiosity and landed an Apprenticeship to get my foot in the door as I was hooked. Since then I have finished the Apprenticeship and I am currently working as a developer in e-commerce.  
-* 🔭   I'm working on Java 21 and Spring Boot
+* 🔭   I'm working in Java 21 and Spring Boot
 * 🧠  I'm learning Kafka
 * 🧠  I am learning Python
 * 🤝  I'm open to collaborating on Projects
